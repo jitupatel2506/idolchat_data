@@ -32,12 +32,12 @@
   {
     "name": "Ronaldo",
     "imageUrl": "https://raw.githubusercontent.com/jitupatel2506/idolchat_data/refs/heads/main/idols/btn_ronaldo.png",
-    "mainurl":"https://raw.githubusercontent.com/ritzshaikh/All-Videos/refs/heads/main/idol_call/fake_ps_call_ronaldo.mp3"
+    "mainurl":"https://raw.githubusercontent.com/ritzshaikh/All-Videos/refs/heads/main/idol_call/cr7_video.mp4"
   },
   {
     "name": "Santa",
     "imageUrl": "https://raw.githubusercontent.com/jitupatel2506/idolchat_data/refs/heads/main/idols/btn_santa.png",
-    "mainurl":"https://raw.githubusercontent.com/ritzshaikh/All-Videos/refs/heads/main/idol_call/fake_ps_call_santa.mp3"
+    "mainurl":"https://raw.githubusercontent.com/ritzshaikh/All-Videos/refs/heads/main/idol_call/santa_video.mp4"
   },
   {
     "name": "Squid Game",
@@ -47,16 +47,16 @@
   {
     "name": "Taylor Swift",
     "imageUrl": "https://raw.githubusercontent.com/jitupatel2506/idolchat_data/refs/heads/main/idols/btn_taylor_swift.png",
-    "mainurl":"https://raw.githubusercontent.com/ritzshaikh/All-Videos/refs/heads/main/idol_call/fake_ps_call_taylor_swift.mp3"
+    "mainurl":"https://raw.githubusercontent.com/ritzshaikh/All-Videos/refs/heads/main/idol_call/taylor_video.mp4"
   },
   {
     "name": "Taehyung",
     "imageUrl": "https://raw.githubusercontent.com/jitupatel2506/idolchat_data/refs/heads/main/idols/btn_vbts.png",
-    "mainurl":"https://raw.githubusercontent.com/ritzshaikh/All-Videos/refs/heads/main/idol_call/fake_ps_call_vbts.mp3"
+    "mainurl":"https://raw.githubusercontent.com/ritzshaikh/All-Videos/refs/heads/main/idol_call/v_v_bts1.mp4"
   },
   {
     "name": "Rose",
     "imageUrl": "https://raw.githubusercontent.com/jitupatel2506/idolchat_data/refs/heads/main/idols/btn_rose.png",
-    "mainurl":"https://raw.githubusercontent.com/ritzshaikh/All-Videos/refs/heads/main/idol_call/fake_ps_call_rose.mp3"
+    "mainurl":"https://raw.githubusercontent.com/ritzshaikh/All-Videos/refs/heads/main/idol_call/v_rose1.mp4"
   }
 ]
