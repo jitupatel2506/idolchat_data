@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Jennie",
+    "imageUrl": "https://raw.githubusercontent.com/jitupatel2506/idolchat_data/refs/heads/main/idols/btn_jenni.png",
+    "mainurl": "https://raw.githubusercontent.com/ritzshaikh/All-Videos/refs/heads/main/idol_call/v_jennie1.mp4",
+    "blurUrl": "https://raw.githubusercontent.com/jitupatel2506/idolchat_data/refs/heads/main/blur_idol/bg_jenni.png"
+  },
+  {
+    "name": "Jungkook",
+    "imageUrl": "https://raw.githubusercontent.com/jitupatel2506/idolchat_data/refs/heads/main/idols/btn_jungkook.png",
+    "mainurl": "https://raw.githubusercontent.com/ritzshaikh/All-Videos/refs/heads/main/idol_call/v_jungkook1.mp4",
+    "blurUrl": "https://raw.githubusercontent.com/jitupatel2506/idolchat_data/refs/heads/main/blur_idol/bg_jungkook.png"
+  },
+  {
+    "name": "Doraemon",
+    "imageUrl": "https://raw.githubusercontent.com/jitupatel2506/idolchat_data/refs/heads/main/idols/btn_doraemon.png",
+    "mainurl": "https://raw.githubusercontent.com/ritzshaikh/All-Videos/refs/heads/main/idol_call/fake_doraemon.mp4",
+    "blurUrl": "https://raw.githubusercontent.com/jitupatel2506/idolchat_data/refs/heads/main/blur_idol/bg_doraemon.png"
+  },
+  {
+    "name": "Lisa",
+    "imageUrl": "https://raw.githubusercontent.com/jitupatel2506/idolchat_data/refs/heads/main/idols/btn_lisa.png",
+    "mainurl": "https://raw.githubusercontent.com/ritzshaikh/All-Videos/refs/heads/main/idol_call/lisa_video.mp4",
+    "blurUrl": "https://raw.githubusercontent.com/jitupatel2506/idolchat_data/refs/heads/main/blur_idol/bg_lisa.png"
+  },
+  {
+    "name": "Messi",
+    "imageUrl": "https://raw.githubusercontent.com/jitupatel2506/idolchat_data/refs/heads/main/idols/btn_messi.png",
+    "mainurl": "https://raw.githubusercontent.com/ritzshaikh/All-Videos/refs/heads/main/idol_call/messi_video.mp4",
+    "blurUrl": "https://raw.githubusercontent.com/jitupatel2506/idolchat_data/refs/heads/main/blur_idol/bg_messi.png"
+  },
+  {
+    "name": "Tokyo",
+    "imageUrl": "https://raw.githubusercontent.com/jitupatel2506/idolchat_data/refs/heads/main/idols/btn_money_heist.png",
+    "mainurl": "https://raw.githubusercontent.com/ritzshaikh/All-Videos/refs/heads/main/idol_call/fake_moeny_heist.mp4",
+    "blurUrl": "https://raw.githubusercontent.com/jitupatel2506/idolchat_data/refs/heads/main/blur_idol/bg_money_heist.png"
+  },
+  {
+    "name": "Ronaldo",
+    "imageUrl": "https://raw.githubusercontent.com/jitupatel2506/idolchat_data/refs/heads/main/idols/btn_ronaldo.png",
+    "mainurl": "https://raw.githubusercontent.com/ritzshaikh/All-Videos/refs/heads/main/idol_call/cr7_video.mp4",
+    "blurUrl": "https://raw.githubusercontent.com/jitupatel2506/idolchat_data/refs/heads/main/blur_idol/bg_ronaldo.png"
+  },
+  {
+    "name": "Santa",
+    "imageUrl": "https://raw.githubusercontent.com/jitupatel2506/idolchat_data/refs/heads/main/idols/btn_santa.png",
+    "mainurl": "https://raw.githubusercontent.com/ritzshaikh/All-Videos/refs/heads/main/idol_call/santa_video.mp4",
+    "blurUrl": "https://raw.githubusercontent.com/jitupatel2506/idolchat_data/refs/heads/main/blur_idol/bg_santa.png"
+  },
+  {
+    "name": "Squid Game",
+    "imageUrl": "https://raw.githubusercontent.com/jitupatel2506/idolchat_data/refs/heads/main/idols/btn_squidgame.png",
+    "mainurl": "https://raw.githubusercontent.com/ritzshaikh/All-Videos/refs/heads/main/idol_call/fake_squid_game.mp4",
+    "blurUrl": "https://raw.githubusercontent.com/jitupatel2506/idolchat_data/refs/heads/main/blur_idol/bg_squid_game.png"
+  },
+  {
+    "name": "Taylor Swift",
+    "imageUrl": "https://raw.githubusercontent.com/jitupatel2506/idolchat_data/refs/heads/main/idols/btn_taylor_swift.png",
+    "mainurl": "https://raw.githubusercontent.com/ritzshaikh/All-Videos/refs/heads/main/idol_call/taylor_video.mp4",
+    "blurUrl": "https://raw.githubusercontent.com/jitupatel2506/idolchat_data/refs/heads/main/blur_idol/bg_taylor_swift.png"
+  },
+  {
+    "name": "Taehyung",
+    "imageUrl": "https://raw.githubusercontent.com/jitupatel2506/idolchat_data/refs/heads/main/idols/btn_vbts.png",
+    "mainurl": "https://raw.githubusercontent.com/ritzshaikh/All-Videos/refs/heads/main/idol_call/v_v_bts1.mp4",
+    "blurUrl": "https://raw.githubusercontent.com/jitupatel2506/idolchat_data/refs/heads/main/blur_idol/bg_vbts.png"
+  },
+  {
+    "name": "Rose",
+    "imageUrl": "https://raw.githubusercontent.com/jitupatel2506/idolchat_data/refs/heads/main/idols/btn_rose.png",
+    "mainurl": "https://raw.githubusercontent.com/ritzshaikh/All-Videos/refs/heads/main/idol_call/v_rose1.mp4",
+    "blurUrl": "https://raw.githubusercontent.com/jitupatel2506/idolchat_data/refs/heads/main/blur_idol/bg_rose.png"
+  }
+]
